@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightBuilderProject", "FlightBuilderProject\FlightBuilderProject.csproj", "{6B2CE5B2-CB18-4343-AADD-5D6C8113428E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlightBuilderOperationsUnitTest", "FlightBuilderOperationsUnitTest\FlightBuilderOperationsUnitTest.csproj", "{9DE221AF-9CD0-43D2-8EA6-E1253238934B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B2CE5B2-CB18-4343-AADD-5D6C8113428E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B2CE5B2-CB18-4343-AADD-5D6C8113428E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B2CE5B2-CB18-4343-AADD-5D6C8113428E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B2CE5B2-CB18-4343-AADD-5D6C8113428E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE221AF-9CD0-43D2-8EA6-E1253238934B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE221AF-9CD0-43D2-8EA6-E1253238934B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE221AF-9CD0-43D2-8EA6-E1253238934B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE221AF-9CD0-43D2-8EA6-E1253238934B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

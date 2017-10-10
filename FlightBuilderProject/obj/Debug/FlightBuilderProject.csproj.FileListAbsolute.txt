@@ -1,0 +1,6 @@
+c:\users\derya gunduz\documents\visual studio 2012\Projects\FlightBuilderProject\FlightBuilderProject\bin\Debug\FlightBuilderProject.exe.config
+c:\users\derya gunduz\documents\visual studio 2012\Projects\FlightBuilderProject\FlightBuilderProject\bin\Debug\FlightBuilderProject.exe
+c:\users\derya gunduz\documents\visual studio 2012\Projects\FlightBuilderProject\FlightBuilderProject\bin\Debug\FlightBuilderProject.pdb
+c:\users\derya gunduz\documents\visual studio 2012\Projects\FlightBuilderProject\FlightBuilderProject\obj\Debug\FlightBuilderProject.csprojResolveAssemblyReference.cache
+c:\users\derya gunduz\documents\visual studio 2012\Projects\FlightBuilderProject\FlightBuilderProject\obj\Debug\FlightBuilderProject.exe
+c:\users\derya gunduz\documents\visual studio 2012\Projects\FlightBuilderProject\FlightBuilderProject\obj\Debug\FlightBuilderProject.pdb
